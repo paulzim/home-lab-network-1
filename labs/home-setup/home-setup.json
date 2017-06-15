@@ -1,0 +1,29 @@
+{
+  "labId": "home-lab-network",
+  "title": "APIC-EM Home Lab Hardware Platform",
+  "slug": "When considering whether to add APIC-EM to your home lab, determine which server hardware should you buy, which specifications, and options to save money",
+  "time": "25",
+  "byod": true,
+  "tags": [
+    {"title": "SDN"},
+    {"title": "DNA"},
+    {"title": "Networking"},
+	{"title": "APIC-EM"}
+  ],
+  "related": [
+    ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+	{"title": "3.md"},
+	{"title": "4.md"}
+	{"title": "5.md"},
+	{"title": "6.md"},
+	{"title": "7.md"},
+	{"title": "8.md"},
+	{"title": "9.md"}
+  ],
+  "authors": [
+  	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"}
+  ]
+}
