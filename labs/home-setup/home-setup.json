@@ -1,5 +1,5 @@
 {
-  "labId": "home-lab-network",
+  "labId": "home-setup",
   "title": "APIC-EM Home Lab Hardware Platform",
   "slug": "When considering whether to add APIC-EM to your home lab, determine which server hardware should you buy, which specifications, and options to save money",
   "time": "25",
